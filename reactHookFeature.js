@@ -53,3 +53,4 @@ export function useEffect(callback, deps) {
 export function resetHookIndex() {
   state.currentHook = 0;
 }
+
